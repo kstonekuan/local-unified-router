@@ -1,0 +1,11 @@
+# Ignore build artifacts
+/target/
+
+# Ignore backup files
+*.rs.bk
+
+# Ignore debug symbols
+*.pdb
+
+# Ignore OS-specific files
+.DS_Store
